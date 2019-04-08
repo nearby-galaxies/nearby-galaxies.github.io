@@ -28,14 +28,6 @@ I use molecular spectra from radio and submillimeter telescopes to probe physica
 
 More about my research and my CV can be found on my [website](https://sites.google.com/site/astrogorski/)
 
-## Robin Arnason (PhD 2018)
-
-<img align="right" src="{{ site.url }}/images/robin.jpg">
-I'm interested in the details of the formation and evolution of binary systems that have a compact object (white dwarf, neutron star, and black hole) inside our Galaxy. Studying compact object binaries is difficult in the Milky Way, where there is a lot of uncertainty about the distance, age, and metal content of stellar populations, so we often use globular clusters or nearby galaxies instead. In the past, I've investigated the [unusual properties of a very faint X-ray binary in the globular cluster M15](http://arxiv.org/abs/1505.07117). Currently, I am conducting a survey of the X-ray binaries in the Sculptor Dwarf spheroidal Galaxy. Like the globular clusters, dwarf galaxies tend to be relatively simple in terms of having one distance, age, and metallicity.
-However, they are much better than globular clusters at representing binary evolution in an environment similar to the Milky Way, since they don't have the same high stellar density.
-
-[Robin's Publications](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Arnason%2C%20R%22&sort=date%20desc%2C%20bibcode%20desc)
-
 ## Matt Shubat (BSc 2019)
 
 <img align="right" src="{{ site.url }}/images/matt.png" width="213" height="233">
@@ -52,18 +44,24 @@ You can find out more about me on [LinkedIn](https://www.linkedin.com/in/mattshu
 
 <img align="right" src="{{ site.url }}/images/davidli.png" width="213" height="233">
 
-I am a Master student pursuing a degree in Statistics. My research focuses on devising statistical methods for comparing inhomogeneous spatial point processes/random shapes. I am currently studying the spatial dependence between the CO filament and young star clusters in the M33 galaxy. Methods exist in spatial statistics field for analyzing spatial dependence for homogeneous point processes but few do for inhomogeneous processes. CO filament and star clusters both exhibit similar global inhomogeneity which renders the existing methods unsuitable for investigating the dependence structure. I hope to come up with novel techniques that can address this issue and aid fellow astronomers to better analyze the spatial structure of astronomical objects and possibly generate new physical insights.
+I am a Master's student pursuing a degree in Statistics. My research focuses on devising statistical methods for comparing inhomogeneous spatial point processes/random shapes. I am currently studying the spatial dependence between the CO filaments and young star clusters in the M33 galaxy. Methods exist in spatial statistics field for analyzing spatial dependence for homogeneous point processes but few do for inhomogeneous processes. CO filaments and star clusters both exhibit similar global inhomogeneity which renders the existing methods unsuitable for investigating the dependence structure. I hope to come up with novel techniques that can address this issue and aid fellow astronomers to better analyze the spatial structure of astronomical objects and possibly generate new physical insights.
 
 For more info about me, please check my [Linkedin](https://www.linkedin.com/in/dayi-david-li/)
 
 
 # Recent alumni
 
+## Robin Arnason (PhD 2018)
+
+<img align="right" src="{{ site.url }}/images/robin.jpg">
+Robin's [PhD thesis](https://ir.lib.uwo.ca/etd/5931/) investigates the details of the formation and evolution of binary systems that have a compact object (white dwarf, neutron star, and black hole). Studying compact object binaries is difficult in the Milky Way, where there is a lot of uncertainty about the distance, age, and metal content of stellar populations, so we often use globular clusters or nearby galaxies instead. You can find 
+[Robin's publications here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Arnason%2C%20R%22&sort=date%20desc%2C%20bibcode%20desc). Robin is now a [senior scientist at Interface Fluidics](https://www.linkedin.com/in/robin-arnason-66a362157/).
+
 ## Alex Kiar (BESc/HBA 2018; USRA 2016)
 
 <img align="right" src="{{ site.url }}/images/alex.jpg">
-[Alex](https://ca.linkedin.com/in/alexkiar)'s research involved the use of clustering algorithms to analyze a multi-wavelength astronomical catalog
-of point sources in a nearby galaxy. The paper from this research is [here](https://academic.oup.com/mnras/article/472/1/1074/4082094/Deconstructing-a-galaxy-colour-distributions-of). He doesn't always wear a suit.
+Alex's research involved the use of clustering algorithms to analyze a multi-wavelength astronomical catalog
+of point sources in a nearby galaxy. The paper from this research is [here](https://academic.oup.com/mnras/article/472/1/1074/4082094/Deconstructing-a-galaxy-colour-distributions-of). He is [associate analyst at Mastercard Advisors](https://www.linkedin.com/in/alexkiar/).
 
 &nbsp; 
 
@@ -71,7 +69,7 @@ of point sources in a nearby galaxy. The paper from this research is [here](http
 
 <img align="right" src="{{ site.url }}/images/sachi.jpg">
 [Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research was on mass-losing dusty stars in nearby
-[dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group). Sachi is currently a [Master of Data Analytics](http://uwo.ca/mda/) student at Western.
+[dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group). Sachi is currently a fraud detection analyst at RBC.
 
 
 ![Neven, Pauline and Sahar on Convocation day, fall 2016]({{ site.url }}/images/pb_sr_nv_grad.jpg)
@@ -80,7 +78,7 @@ Neven, Pauline and Sahar on Convocation day, fall 2016
 
 ## Sahar Rahmani (PhD 2016)
 
-[Sahar's](https://sites.google.com/site/rahmanisahar/) research involves using modern statistical and machine learning techniques to study the star formation rate in external galaxies. Find her publications [here](http://ui.adsabs.harvard.edu/#search/q=author%3A"Rahmani"%20author%3A"Barmby"&sort=date%20desc%2C%20bibcode%20desc) and her PhD thesis [here](http://ir.lib.uwo.ca/etd/4061/). Sahar is now a [data scientist in industry](https://www.linkedin.com/in/rahmanisahar/).
+[Sahar's](https://sites.google.com/site/rahmanisahar/) research involves using modern statistical and machine learning techniques to study the star formation rate in external galaxies. Find her publications [here](http://ui.adsabs.harvard.edu/#search/q=author%3A"Rahmani"%20author%3A"Barmby"&sort=date%20desc%2C%20bibcode%20desc) and her PhD thesis [here](http://ir.lib.uwo.ca/etd/4061/). Sahar is now [Director, Joint Security Operations Centre (JSOC) Analytics, Global Cyber Security at RBC](https://www.linkedin.com/in/rahmanisahar/).
 
 ## Neven Vulic (PhD 2016, MSc 2012)
 
@@ -102,7 +100,7 @@ He is now a PhD student at the University of Waterloo and Perimeter Institute. F
 ## Sophia Lianou (PDF 2012-2015)
 
 <img align="right" src="{{ site.url }}/images/sophia.jpg">
-[Sophia](https://www.linkedin.com/in/lianou)'s research is on multi-wavelength studies of star formation in nearby galaxies. She is now a postdoc at CEA-Saclay, France. Find Sophia's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Lianou%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc).
+[Sophia](https://www.linkedin.com/in/lianou)'s research is on multi-wavelength studies of star formation in nearby galaxies. She is now a researcher at the National Observatory of Athens. Find Sophia's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Lianou%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc).
 
 &nbsp;
 
@@ -110,7 +108,7 @@ He is now a PhD student at the University of Waterloo and Perimeter Institute. F
 
 [Dimuthu](https://ca.linkedin.com/in/dimuthu-hemachandra-2465571b) studied the Polycyclic Aromatic Hydrocarbons in Andromeda; find
 his MSc thesis paper [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Hemachandra%2C%20D%22&sort=date%20desc%2C%20bibcode%20desc).
-Dimuthu works as an instructor at [Brescia University College](http://www.brescia.uwo.ca).
+Dimuthu was a faculty member at Brescia University College and is now a [PhD student in Bio-medical Engineering](https://www.khanlab.ca/people) at Western.
 
 ## Andrea Hidalgo Valadez (BSc, Mitacs Globalink 2014)
 
@@ -122,7 +120,7 @@ Gabe's research involved precisely locating an X-ray binary within [a star clust
 
 ## Mitchell Croley (MSc 2013)
 
-[Mitchell](https://ca.linkedin.com/in/mitchell-croley-779a30108) measured the metallicity gradient in M31 HII regions. He is now working as a data analyst in industry.
+[Mitchell](https://ca.linkedin.com/in/mitchell-croley-779a30108) measured the metallicity gradient in M31 HII regions. He is now working as an actuarial analyst at Pacific Life Re.
 
 ## Judi Agar (MSc 2012)
 
@@ -130,8 +128,8 @@ Gabe's research involved precisely locating an X-ray binary within [a star clust
 
 ## Ghazal Farhani (MSc 2012)
 
-[Ghazal](https://ca.linkedin.com/in/ghazal-farhani-8bba1a51) studied the HII regions in the nearby galaxy [NGC 5128](http://messier.seds.org/xtra/ngc/n5128.html). She is now a
-PhD student in atmospheric physics in the Western Physics & Astronomy [Purple Crow Lidar](http://pcl.physics.uwo.ca/) group.
+[Ghazal](https://ca.linkedin.com/in/ghazal-farhani-8bba1a51) studied the HII regions in the nearby galaxy [NGC 5128](http://messier.seds.org/xtra/ngc/n5128.html). She completed her
+PhD in atmospheric physics in the Western Physics & Astronomy [Purple Crow Lidar](http://pcl.physics.uwo.ca/) group and is now a data scientist at the Globe and Mail.
 
 ## Roger Odell (BSc 2012)
 
