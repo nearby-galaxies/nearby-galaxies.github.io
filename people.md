@@ -116,7 +116,7 @@ Dimuthu was a faculty member at Brescia University College and is now a [PhD stu
 
 ## Gabe Keenleyside (BSc 2014)
 
-Gabe's research involved precisely locating an X-ray binary within [a star cluster in M31](http://physics.uwo.ca/undergraduate/current_students/2014_pa_undergraduate_honors_thesis.html).
+Gabe's research involved precisely locating an X-ray binary within [a star cluster in M31](http://physics.uwo.ca/undergraduate/current_students/2014_pa_undergraduate_honors_thesis.html). He is completing a BSc in Computer Science at Western.
 
 ## Mitchell Croley (MSc 2013)
 
