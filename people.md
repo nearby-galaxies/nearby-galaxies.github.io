@@ -22,6 +22,7 @@ the Spitzer/IRAC instrument team and worked on a variety of science topics inclu
 
 Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [blog](http://pbarmby.github.io).
 
+
 ## Bavithra (MSc 2023)
 <img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="233">
 
@@ -29,39 +30,55 @@ I’m a master’s student in Astronomy. My research is focused on UGC 2885, a v
 
 You can find more about me on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/)
 
-## Mark Gorski (Postdoc)
-<img align="right" src="{{ site.url }}/images/gorski.jpg">
-I use molecular spectra from radio and submillimeter telescopes to probe physical conditions of the interstellar medium within nearby galaxies.  Nearby galaxies permit access to weak, but diagnostically important tracers that can be applied to a much wider range of galactic star formation rates and environments. The connection between star formation and the ISM is responsible for large uncertainties in galaxy evolution and the main source of uncertainty limiting future progress. I'm specifically interested in the effect of mechanical and radiative feed-back processes and how they might impede the formation of stars. 
 
-More about my research and my CV can be found on my [website](https://sites.google.com/site/astrogorski/)
 
-## Matt Shubat (BSc 2019)
+## Callum Dewsnap (PhD 2025)
+<img align="right" src="{{ site.url }}/images/DewsnapPicture.jpg" width="213" height="233">
 
-<img align="right" src="{{ site.url }}/images/matt.png" width="213" height="233">
+My research focuses on the relationship between high redshift galaxies and the AGN they may host. Specifically, I model the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. I’ve performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
 
-My undergraduate thesis project is focused on comparing two popular astronomical datasets: NED and SIMBAD. I will initially be looking at the M83 galaxy object entries and comparing their classifications in an automated fashion. Based on such an analysis I hope to generate useful metrics and results which give a clearer view of how the classifications compare between the two resources. Ultimately this tool could be used by researchers to see how other datasets compare between NED and SIMBAD in terms of similarity, differences, and provide some insight into accuracy.
 
-I am also in my last year of undergrad pursuing a degree in Computer Science and Physics.
 
-You can find out more about me on [LinkedIn](https://www.linkedin.com/in/mattshubat/)
 
-&nbsp; 
+
+
+# Recent alumni
+
+## Hadi Papei (PhD 2023)
+
+<img align="right" src="{{ site.url }}/images/Hadi.jpg">
+In his Ph.D., Hadi developed the first public Python package to measure star formation histories of nearby galaxies using the colour-magnitude of their resolved stars. This package can also be used to simulate stellar populations with different input parameters, i.g. star formation history, age-metalicity relation, distance, reddening, IMF, observational uncertainties etc. 
+Hadi also investigated the unresolved background galaxies' contamination effect in measuring nearby galaxies' star formation histories. He analyzed the contamination effect for galaxies at different distances and surface brightnesses and observational parameters like photometry depth.
+For more info about Hadi, please check his [Linkedin](www.linkedin.com/in/hadi-papei).
 
 ## Dayi David Li (MSc 2020)
 
 <img align="right" src="{{ site.url }}/images/davidli.png" width="213" height="233">
 
-I am a Master's student pursuing a degree in Statistics. My research focuses on devising statistical methods for comparing inhomogeneous spatial point processes/random shapes. I am currently studying the spatial dependence between the CO filaments and young star clusters in the M33 galaxy. Methods exist in spatial statistics field for analyzing spatial dependence for homogeneous point processes but few do for inhomogeneous processes. CO filaments and star clusters both exhibit similar global inhomogeneity which renders the existing methods unsuitable for investigating the dependence structure. I hope to come up with novel techniques that can address this issue and aid fellow astronomers to better analyze the spatial structure of astronomical objects and possibly generate new physical insights.
+David was a Master's student pursuing a degree in Statistics. His research focused on devising statistical methods for comparing inhomogeneous spatial point processes/random shapes. I am currently studying the spatial dependence between the CO filaments and young star clusters in the M33 galaxy. Methods exist in spatial statistics field for analyzing spatial dependence for homogeneous point processes but few do for inhomogeneous processes. CO filaments and star clusters both exhibit similar global inhomogeneity which renders the existing methods unsuitable for investigating the dependence structure. He came up with novel techniques that can address this issue and aid fellow astronomers to better analyze the spatial structure of astronomical objects and possibly generate new physical insights.
 
-For more info about me, please check my [Linkedin](https://www.linkedin.com/in/dayi-david-li/)
+For more info about David, please check his [Linkedin](https://www.linkedin.com/in/dayi-david-li/).
+
+## Mark Gorski (Postdoc 2017-2019)
+<img align="right" src="{{ site.url }}/images/gorski.jpg">
+Mark uses molecular spectra from radio and submillimeter telescopes to probe physical conditions of the interstellar medium within nearby galaxies.  Nearby galaxies permit access to weak, but diagnostically important tracers that can be applied to a much wider range of galactic star formation rates and environments. The connection between star formation and the ISM is responsible for large uncertainties in galaxy evolution and the main source of uncertainty limiting future progress. He's specifically interested in the effect of mechanical and radiative feed-back processes and how they might impede the formation of stars. 
+
+More about Mark's research and his CV can be found on his [website](https://sites.google.com/site/astrogorski/).
 
 
-# Recent alumni
+## Matt Shubat (BSc 2019)
+
+<img align="right" src="{{ site.url }}/images/matt.png" width="213" height="233">
+
+Matt's undergraduate thesis project was focused on comparing two popular astronomical datasets: NED and SIMBAD. He looked at the M83 galaxy object entries and comparing their classifications in an automated fashion. Based on such an analysis he generated useful metrics and results which gave a clearer view of how the classifications compare between the two resources. His tool has been used by researchers in our group to see how other datasets compare between NED and SIMBAD in terms of similarity, differences, and provide some insight into accuracy.
+
+Matt graduated in 2019 with a degree in Computer Science and Physics. You can find out more about him on [LinkedIn](https://www.linkedin.com/in/mattshubat/).
+
 
 ## Robin Arnason (PhD 2018)
 
 <img align="right" src="{{ site.url }}/images/robin.jpg">
-Robin's [PhD thesis](https://ir.lib.uwo.ca/etd/5931/) investigates the details of the formation and evolution of binary systems that have a compact object (white dwarf, neutron star, and black hole). Studying compact object binaries is difficult in the Milky Way, where there is a lot of uncertainty about the distance, age, and metal content of stellar populations, so we often use globular clusters or nearby galaxies instead. You can find 
+Robin's [PhD thesis](https://ir.lib.uwo.ca/etd/5931/) investigated the details of the formation and evolution of binary systems that have a compact object (white dwarf, neutron star, and black hole). Studying compact object binaries is difficult in the Milky Way, where there is a lot of uncertainty about the distance, age, and metal content of stellar populations, so we often use globular clusters or nearby galaxies instead. You can find 
 [Robin's publications here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Arnason%2C%20R%22&sort=date%20desc%2C%20bibcode%20desc). Robin is now a [senior scientist at Interface Fluidics](https://www.linkedin.com/in/robin-arnason-66a362157/).
 
 ## Alex Kiar (BESc/HBA 2018; USRA 2016)
