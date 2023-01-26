@@ -22,8 +22,21 @@ the Spitzer/IRAC instrument team and worked on a variety of science topics inclu
 
 Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [blog](http://pbarmby.github.io).
 
-## Callum Dewsnap (PhD )
-<img align="right" src="{{ site.url }}/images/DewsnapPicture.jpg">
+
+
+## Bavithra (MSc 2023)
+<img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="233">
+
+I’m a master’s student in Astronomy. My research is focused on UGC 2885, a very large galaxy with a low star formation rate. My focus has been to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal is to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
+
+You can find more about me on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/)
+
+
+
+## Callum Dewsnap (PhD 2025)
+<img align="right" src="{{ site.url }}/images/DewsnapPicture.jpg" width="213" height="233">
+
+
 My research focuses on the relationship between high redshift galaxies and the AGN they may host. Specifically, I model the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. I’ve performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
 
 
