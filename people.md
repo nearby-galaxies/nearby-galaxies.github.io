@@ -23,6 +23,7 @@ the Spitzer/IRAC instrument team and worked on a variety of science topics inclu
 Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [blog](http://pbarmby.github.io).
 
 
+
 ## Bavithra (MSc 2023)
 <img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="233">
 
@@ -35,10 +36,13 @@ You can find more about me on [LinkedIn](https://www.linkedin.com/in/bavithra-na
 ## Callum Dewsnap (PhD 2025)
 <img align="right" src="{{ site.url }}/images/DewsnapPicture.jpg" width="213" height="233">
 
+
 My research focuses on the relationship between high redshift galaxies and the AGN they may host. Specifically, I model the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. I’ve performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
 
 
+## Matheus do Carmo Carvalho (MSc )
 
+I am a Master's student focusing on understanding the star formation in Superspiral galaxies and more specifically in the Rubin's Galaxy. During my BSc. of Physics I investigated properties of local peculiar galaxies based on their optical spectra and photometry obtained from the OPD/LNA observatory. I am currently analyzing the Carbon Monoxide emission (from 1-0 and 2-1 transitions) line from millimeter-wavelength spectra observations of the Institut de Radioastronomie Millimetrique (IRAM) and comparing it with the H-alpha emission line of SITELLE, the latest instrument integrated at the CFHT. My goal is to understand the gas (and therefore the stars born from it) in isolated giant spiral galaxies and its functioning in regards to normal-sized objects.
 
 
 
