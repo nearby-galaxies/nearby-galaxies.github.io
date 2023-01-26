@@ -22,6 +22,13 @@ the Spitzer/IRAC instrument team and worked on a variety of science topics inclu
 
 Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [blog](http://pbarmby.github.io).
 
+## Bavithra (MSc 2023)
+<img align="right" src="{{ site.url }}/images/bavi.jpg">
+
+I’m a master’s student in Astronomy. My research is focused on UGC 2885, a very large galaxy with a low star formation rate. My focus has been to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal is to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
+
+You can find more about me on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/)
+
 ## Mark Gorski (Postdoc)
 <img align="right" src="{{ site.url }}/images/gorski.jpg">
 I use molecular spectra from radio and submillimeter telescopes to probe physical conditions of the interstellar medium within nearby galaxies.  Nearby galaxies permit access to weak, but diagnostically important tracers that can be applied to a much wider range of galactic star formation rates and environments. The connection between star formation and the ISM is responsible for large uncertainties in galaxy evolution and the main source of uncertainty limiting future progress. I'm specifically interested in the effect of mechanical and radiative feed-back processes and how they might impede the formation of stars. 
