@@ -22,6 +22,10 @@ the Spitzer/IRAC instrument team and worked on a variety of science topics inclu
 
 Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [blog](http://pbarmby.github.io).
 
+## Callum Dewsnap (PhD)
+<img align="right" src="{{ site.url }}/images/DewsnapPicture.jpg">
+My research focuses on the relationship between high redshift galaxies and the AGN they may host. Specifically, I model the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. I’ve performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
+
 ## Mark Gorski (Postdoc)
 <img align="right" src="{{ site.url }}/images/gorski.jpg">
 I use molecular spectra from radio and submillimeter telescopes to probe physical conditions of the interstellar medium within nearby galaxies.  Nearby galaxies permit access to weak, but diagnostically important tracers that can be applied to a much wider range of galactic star formation rates and environments. The connection between star formation and the ISM is responsible for large uncertainties in galaxy evolution and the main source of uncertainty limiting future progress. I'm specifically interested in the effect of mechanical and radiative feed-back processes and how they might impede the formation of stars. 
