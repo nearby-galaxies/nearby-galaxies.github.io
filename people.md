@@ -22,15 +22,10 @@ the Spitzer/IRAC instrument team and worked on a variety of science topics inclu
 
 Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [blog](http://pbarmby.github.io).
 
-## Callum Dewsnap (PhD)
+## Callum Dewsnap (PhD )
 <img align="right" src="{{ site.url }}/images/DewsnapPicture.jpg">
 My research focuses on the relationship between high redshift galaxies and the AGN they may host. Specifically, I model the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. I’ve performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
 
-## Mark Gorski (Postdoc)
-<img align="right" src="{{ site.url }}/images/gorski.jpg">
-I use molecular spectra from radio and submillimeter telescopes to probe physical conditions of the interstellar medium within nearby galaxies.  Nearby galaxies permit access to weak, but diagnostically important tracers that can be applied to a much wider range of galactic star formation rates and environments. The connection between star formation and the ISM is responsible for large uncertainties in galaxy evolution and the main source of uncertainty limiting future progress. I'm specifically interested in the effect of mechanical and radiative feed-back processes and how they might impede the formation of stars. 
-
-More about my research and my CV can be found on my [website](https://sites.google.com/site/astrogorski/)
 
 
 
@@ -52,6 +47,13 @@ For more info about Hadi, please check his [Linkedin](www.linkedin.com/in/hadi-p
 David was a Master's student pursuing a degree in Statistics. His research focused on devising statistical methods for comparing inhomogeneous spatial point processes/random shapes. I am currently studying the spatial dependence between the CO filaments and young star clusters in the M33 galaxy. Methods exist in spatial statistics field for analyzing spatial dependence for homogeneous point processes but few do for inhomogeneous processes. CO filaments and star clusters both exhibit similar global inhomogeneity which renders the existing methods unsuitable for investigating the dependence structure. He came up with novel techniques that can address this issue and aid fellow astronomers to better analyze the spatial structure of astronomical objects and possibly generate new physical insights.
 
 For more info about David, please check his [Linkedin](https://www.linkedin.com/in/dayi-david-li/).
+
+## Mark Gorski (Postdoc 2017-2019)
+<img align="right" src="{{ site.url }}/images/gorski.jpg">
+Mark uses molecular spectra from radio and submillimeter telescopes to probe physical conditions of the interstellar medium within nearby galaxies.  Nearby galaxies permit access to weak, but diagnostically important tracers that can be applied to a much wider range of galactic star formation rates and environments. The connection between star formation and the ISM is responsible for large uncertainties in galaxy evolution and the main source of uncertainty limiting future progress. He's specifically interested in the effect of mechanical and radiative feed-back processes and how they might impede the formation of stars. 
+
+More about Mark's research and his CV can be found on his [website](https://sites.google.com/site/astrogorski/).
+
 
 ## Matt Shubat (BSc 2019)
 
