@@ -24,7 +24,7 @@ Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [
 
 
 
-## Bavithra Naguleswran (MSc 2023)
+## Bavithra Naguleswaran (MSc 2023)
 <img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="240">
 
 My research is focused on UGC 2885, a very large galaxy with a low star formation rate. My focus has been to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal is to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
