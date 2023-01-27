@@ -40,6 +40,16 @@ You can find more about me on [LinkedIn](https://www.linkedin.com/in/bavithra-na
 My research focuses on the relationship between high redshift galaxies and the AGN they may host. Specifically, I model the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. I’ve performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
 
 
+
+## Adrien Hélias (PhD 2026)
+<img align="right" src="{{ site.url }}/images/Adrien.jpg" width="220" height="220">
+I study the evolution of the kinematics of active and inactive galaxies dwarf galaxies with cosmic time. I plan to use multiple gas kinematic tracers at low and high redshift in order to unveil the impact of active galactic nuclei on the kinematics and to observe how it evolved within a few billion years from today.
+In my 2nd year MSc research internship (March - June 2022), I worked at Queen's University in Dr. Kristine Spekkens' group on modelling the kinematics of Ultra Diffuse Galaxies using 3D tilted ring analysis on HI datacubes.
+
+You can find more about me on my Linkedin page [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US) by clicking on the link!
+
+
+
 ## Matheus do Carmo Carvalho (MSc )
 
 I am a Master's student focusing on understanding the star formation in Superspiral galaxies and more specifically in the Rubin's Galaxy. During my BSc. of Physics I investigated properties of local peculiar galaxies based on their optical spectra and photometry obtained from the OPD/LNA observatory. I am currently analyzing the Carbon Monoxide emission (from 1-0 and 2-1 transitions) line from millimeter-wavelength spectra observations of the Institut de Radioastronomie Millimetrique (IRAM) and comparing it with the H-alpha emission line of SITELLE, the latest instrument integrated at the CFHT. My goal is to understand the gas (and therefore the stars born from it) in isolated giant spiral galaxies and its functioning in regards to normal-sized objects.
