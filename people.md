@@ -44,6 +44,7 @@ My research focuses on the relationship between high redshift galaxies and the A
 ## Adrien Hélias (PhD 2026)
 <img align="right" src="{{ site.url }}/images/Adrien.jpg" width="220" height="220">
 I study the evolution of the kinematics of active and inactive galaxies dwarf galaxies with cosmic time. I plan to use multiple gas kinematic tracers at low and high redshift in order to unveil the impact of active galactic nuclei on the kinematics and to observe how it evolved within a few billion years from today.
+
 In my 2nd year MSc research internship (March - June 2022), I worked at Queen's University in Dr. Kristine Spekkens' group on modelling the kinematics of Ultra Diffuse Galaxies using 3D tilted ring analysis on HI datacubes.
 
 You can find more about me on my Linkedin page [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US) by clicking on the link!
