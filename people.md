@@ -24,7 +24,7 @@ Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [
 
 
 
-## Bavithra Naguleswran (MSc 2023)
+## Bavithra Naguleswaran (MSc 2023)
 <img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="240">
 
 My research is focused on UGC 2885, a very large galaxy with a low star formation rate. My focus has been to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal is to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
@@ -42,7 +42,7 @@ My research focuses on the relationship between high redshift galaxies and the A
 
 
 ## Adrien Hélias (PhD 2026)
-<img align="right" src="{{ site.url }}/images/Adrien.jpg" width="200" height="200">
+<img align="right" src="{{ site.url }}/images/Adrien.JPG" width="200" height="200">
 I study the evolution of the kinematics of active and inactive galaxies dwarf galaxies with cosmic time. I plan to use multiple gas kinematic tracers at low and high redshift in order to unveil the impact of active galactic nuclei on the kinematics and to observe how it evolved within a few billion years from today.
 
 In my 2nd year MSc research internship (March - June 2022), I worked at Queen's University in Dr. Kristine Spekkens' group on modelling the kinematics of Ultra Diffuse Galaxies using 3D tilted ring analysis on HI datacubes.
@@ -61,7 +61,7 @@ I am a Master's student focusing on understanding the star formation in Superspi
 
 ## Hadi Papei (PhD 2023)
 
-<img align="right" src="{{ site.url }}/images/Hadi.jpg">
+<img align="right" src="{{ site.url }}/images/Hadi.P.jpg">
 In his Ph.D., Hadi developed the first public Python package to measure star formation histories of nearby galaxies using the colour-magnitude of their resolved stars. This package can also be used to simulate stellar populations with different input parameters, i.g. star formation history, age-metalicity relation, distance, reddening, IMF, observational uncertainties etc. 
 Hadi also investigated the unresolved background galaxies' contamination effect in measuring nearby galaxies' star formation histories. He analyzed the contamination effect for galaxies at different distances and surface brightnesses and observational parameters like photometry depth.
 For more info about Hadi, please check his [Linkedin](www.linkedin.com/in/hadi-papei).
