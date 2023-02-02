@@ -61,7 +61,7 @@ I am a Master's student focusing on understanding the star formation in Superspi
 
 ## Hadi Papei (PhD 2023)
 
-<img align="right" src="{{ site.url }}/images/Hadi.P.jpg" width="165" height="233">
+<img align="right" src="{{ site.url }}/images/Hadi.P.jpg" width="200" height="208">
 In his Ph.D., Hadi developed the first public Python package to measure star formation histories of nearby galaxies using the colour-magnitude of their resolved stars. This package can also be used to simulate stellar populations with different input parameters, i.g. star formation history, age-metalicity relation, distance, reddening, IMF, observational uncertainties etc. 
 Hadi also investigated the unresolved background galaxies' contamination effect in measuring nearby galaxies' star formation histories. He analyzed the contamination effect for galaxies at different distances and surface brightnesses and observational parameters like photometry depth.
 For more info about Hadi, please check his [Linkedin](www.linkedin.com/in/hadi-papei).
