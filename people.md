@@ -42,12 +42,10 @@ My research focuses on the relationship between high redshift galaxies and the A
 
 
 ## Adrien Hélias (PhD 2026)
-<img align="right" src="{{ site.url }}/images/Adrien.JPG" width="200" height="200">
-I study the evolution of the kinematics of active and inactive galaxies dwarf galaxies with cosmic time. I plan to use multiple gas kinematic tracers at low and high redshift in order to unveil the impact of active galactic nuclei on the kinematics and to observe how it evolved within a few billion years from today.
+<img align="right" src="{{ site.url }}/images/new_pp/png" width="200" height="200">
+I am a 2nd year PhD student co-supervised by professors Pauline Barmby and Sarah Gallagher (specialities: black holes, quasars, active galactic nuclei). I am currently working on low-mass black holes in galaxies, trying to find a sample of such objects by cross-matching and analyzing the sky surveys of the universe. I am especially interested in using AGN variability as a way to find these low-mass black holes.
 
-In my 2nd year MSc research internship (March - June 2022), I worked at Queen's University in Dr. Kristine Spekkens' group on modelling the kinematics of Ultra Diffuse Galaxies using 3D tilted ring analysis on HI datacubes.
-
-You can find more about me on my Linkedin page [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US) by clicking on the link!
+You can find my publications and my CV on this [website](https://ahelias-astro.github.io/). You also can find more about me on my Linkedin [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US).
 
 
 
