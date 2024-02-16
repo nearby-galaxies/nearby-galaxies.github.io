@@ -20,9 +20,6 @@ other galaxies in our Local Group. I've used quite a few different telescopes an
 I came to Western from the [Smithsonian Astrophysical Observatory](https://www.cfa.harvard.edu/sao), where I was a member of
 the Spitzer/IRAC instrument team and worked on a variety of science topics including distant galaxies and variable stars in the Milky Way. My [PhD thesis](http://zenodo.org/record/49389?ln=en) was on globular clusters in the Andromeda galaxy, and I started my research career working on galaxy clusters.
 
-Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [blog](http://pbarmby.github.io).
-
-
 
 
 
@@ -55,7 +52,7 @@ I am a Master's student focusing on understanding the star formation in Superspi
 ## Bavithra Naguleswaran (MSc 2023)
 <img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="240">
 
-My research is focused on UGC 2885, a very large galaxy with a low star formation rate. My focus has been to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal is to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
+Bavithra's research was focused on UGC 2885, a very large galaxy with a low star formation rate. Her focus was to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal wass to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
 
 You can find more about me on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/)
 
