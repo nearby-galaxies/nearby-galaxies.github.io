@@ -66,11 +66,17 @@ In his Ph.D., Hadi developed the first public Python package to measure star for
 Hadi also investigated the unresolved background galaxies' contamination effect in measuring nearby galaxies' star formation histories. He analyzed the contamination effect for galaxies at different distances and surface brightnesses and observational parameters like photometry depth.
 For more info about Hadi, please check his [Linkedin](www.linkedin.com/in/hadi-papei).
 
+## James Xu (MSc 2022)
+
+James studied the nearby elliptical galaxy Maffei 1, analysing near-infrared imaging to construct a catalogue of its globular clusters.
+
+For more info about James, please check his [Linkedin](www.linkedin.com/in/james-xu-7b6343120/).
+
 ## Dayi David Li (MSc 2020)
 
 <img align="right" src="{{ site.url }}/images/davidli.png" width="213" height="233">
 
-David was a Master's student pursuing a degree in Statistics. His research focused on devising statistical methods for comparing inhomogeneous spatial point processes/random shapes. I am currently studying the spatial dependence between the CO filaments and young star clusters in the M33 galaxy. Methods exist in spatial statistics field for analyzing spatial dependence for homogeneous point processes but few do for inhomogeneous processes. CO filaments and star clusters both exhibit similar global inhomogeneity which renders the existing methods unsuitable for investigating the dependence structure. He came up with novel techniques that can address this issue and aid fellow astronomers to better analyze the spatial structure of astronomical objects and possibly generate new physical insights.
+David completed his Master's degree in Statistics. His research focused on devising statistical methods for comparing inhomogeneous spatial point processes/random shapes. He studyied the spatial dependence between the CO filaments and young star clusters in the M33 galaxy. Methods exist in spatial statistics field for analyzing spatial dependence for homogeneous point processes but few do for inhomogeneous processes. CO filaments and star clusters both exhibit similar global inhomogeneity which renders the existing methods unsuitable for investigating the dependence structure. He came up with novel techniques that can address this issue and aid fellow astronomers to better analyze the spatial structure of astronomical objects and possibly generate new physical insights.
 
 For more info about David, please check his [Linkedin](https://www.linkedin.com/in/dayi-david-li/).
 
