@@ -24,12 +24,7 @@ Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [
 
 
 
-## Bavithra Naguleswaran (MSc 2023)
-<img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="240">
 
-My research is focused on UGC 2885, a very large galaxy with a low star formation rate. My focus has been to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal is to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
-
-You can find more about me on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/)
 
 
 
@@ -49,13 +44,20 @@ You can find my publications and my CV on this [website](https://ahelias-astro.g
 
 
 
-## Matheus do Carmo Carvalho (MSc )
+## Matheus do Carmo Carvalho (MSc 2024)
 
 I am a Master's student focusing on understanding the star formation in Superspiral galaxies and more specifically in the Rubin's Galaxy. During my BSc. of Physics I investigated properties of local peculiar galaxies based on their optical spectra and photometry obtained from the OPD/LNA observatory. I am currently analyzing the Carbon Monoxide emission (from 1-0 and 2-1 transitions) line from millimeter-wavelength spectra observations of the Institut de Radioastronomie Millimetrique (IRAM) and comparing it with the H-alpha emission line of SITELLE, the latest instrument integrated at the CFHT. My goal is to understand the gas (and therefore the stars born from it) in isolated giant spiral galaxies and its functioning in regards to normal-sized objects.
 
 
 
 # Recent alumni
+
+## Bavithra Naguleswaran (MSc 2023)
+<img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="240">
+
+My research is focused on UGC 2885, a very large galaxy with a low star formation rate. My focus has been to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal is to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
+
+You can find more about me on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/)
 
 ## Hadi Papei (PhD 2023)
 
