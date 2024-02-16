@@ -69,6 +69,12 @@ James studied the nearby elliptical galaxy Maffei 1, analysing near-infrared ima
 
 For more info about James, please check his [Linkedin](www.linkedin.com/in/james-xu-7b6343120/).
 
+## Robin Kwik (MSc 2022)
+
+Robin completed her MSc in Geography, applying GIS techniques to analyze Hubble Space Telescope images of UGC 2885.
+
+For more info about Robin, please check her [Linkedin](https://www.linkedin.com/in/robin-kwik-841381197/).
+
 ## Dayi David Li (MSc 2020)
 
 <img align="right" src="{{ site.url }}/images/davidli.png" width="213" height="233">
