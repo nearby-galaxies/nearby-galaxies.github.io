@@ -45,6 +45,9 @@ You can find my publications and my CV on this [website](https://ahelias-astro.g
 
 I am a Master's student focusing on understanding the star formation in Superspiral galaxies and more specifically in the Rubin's Galaxy. During my BSc. of Physics I investigated properties of local peculiar galaxies based on their optical spectra and photometry obtained from the OPD/LNA observatory. I am currently analyzing the Carbon Monoxide emission (from 1-0 and 2-1 transitions) line from millimeter-wavelength spectra observations of the Institut de Radioastronomie Millimetrique (IRAM) and comparing it with the H-alpha emission line of SITELLE, the latest instrument integrated at the CFHT. My goal is to understand the gas (and therefore the stars born from it) in isolated giant spiral galaxies and its functioning in regards to normal-sized objects.
 
+## Hannah Christie (MSc 2025)
+
+My research focuses on investigating the properties of low-surface brightness galaxies (LSBs), which are galaxies that are dimmer than the night sky. In particular, I am interested in probing the relationship between stellar mass and star formation rate in these low luminosity systems. I use large multi-wavelength catalogs of data from GALEX, SDSS, and WISE in order to identify samples of LSBs and calculate their parameters. During my BSc. in Honours Astrophysics at McMaster University, I worked with Prof. Pauline Barmby and Adrien Helias in order to create a treasury of Nearby Galaxy Surveys with a particular focus on the impact large panoramic sky surveys on traditional targeted surveys.
 
 
 # Recent alumni
