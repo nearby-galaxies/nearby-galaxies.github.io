@@ -107,7 +107,7 @@ Robin's [PhD thesis](https://ir.lib.uwo.ca/etd/5931/) investigated the details o
 
 <img align="right" src="{{ site.url }}/images/alex.jpg">
 Alex's research involved the use of clustering algorithms to analyze a multi-wavelength astronomical catalog
-of point sources in a nearby galaxy. The paper from this research is [here](https://academic.oup.com/mnras/article/472/1/1074/4082094/Deconstructing-a-galaxy-colour-distributions-of). He is [associate analyst at Mastercard Advisors](https://www.linkedin.com/in/alexkiar/).
+of point sources in a nearby galaxy. The paper from this research is [here](https://academic.oup.com/mnras/article/472/1/1074/4082094/Deconstructing-a-galaxy-colour-distributions-of). For more about Alex, see his [LinkedIn](https://www.linkedin.com/in/alexkiar/).
 
 &nbsp; 
 
@@ -115,8 +115,7 @@ of point sources in a nearby galaxy. The paper from this research is [here](http
 
 <img align="right" src="{{ site.url }}/images/sachi.jpg">
 [Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research was on mass-losing dusty stars in nearby
-[dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group). Sachi is currently a fraud detection analyst at RBC.
-
+[dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group). For more about Sachi see her [LinkedIn](https://www.linkedin.com/in/sachi-elkerton/)
 
 ![Neven, Pauline and Sahar on Convocation day, fall 2016]({{ site.url }}/images/pb_sr_nv_grad.jpg)
 
@@ -124,7 +123,7 @@ Neven, Pauline and Sahar on Convocation day, fall 2016
 
 ## Sahar Rahmani (PhD 2016)
 
-[Sahar's](https://sites.google.com/site/rahmanisahar/) research involves using modern statistical and machine learning techniques to study the star formation rate in external galaxies. Find her publications [here](http://ui.adsabs.harvard.edu/#search/q=author%3A"Rahmani"%20author%3A"Barmby"&sort=date%20desc%2C%20bibcode%20desc) and her PhD thesis [here](http://ir.lib.uwo.ca/etd/4061/). Sahar is now [Director, Joint Security Operations Centre (JSOC) Analytics, Global Cyber Security at RBC](https://www.linkedin.com/in/rahmanisahar/).
+[Sahar's](https://sites.google.com/site/rahmanisahar/) research involved using modern statistical and machine learning techniques to study the star formation rate in external galaxies. Find her publications [here](http://ui.adsabs.harvard.edu/#search/q=author%3A"Rahmani"%20author%3A"Barmby"&sort=date%20desc%2C%20bibcode%20desc) and her PhD thesis [here](http://ir.lib.uwo.ca/etd/4061/). For more about Sahar see her [LinkedIn](https://www.linkedin.com/in/rahmanisahar/).
 
 ## Neven Vulic (PhD 2016, MSc 2012)
 
@@ -138,7 +137,7 @@ publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C
 
 <img align="right" src="{{ site.url }}/images/masoud.jpg">
 [Masoud](https://www.perimeterinstitute.ca/people/masoud-rafiei-ravandi) studied the mid-infrared halo of the Andromeda galaxy.
-He is now a PhD student at the University of Waterloo and Perimeter Institute. Find Masoud's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rafiei%20Ravandi%2C%20M%22&sort=date%20desc%2C%20bibcode%20desc).
+He completed his PhD at the University of Waterloo and Perimeter Institute. Find Masoud's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rafiei%20Ravandi%2C%20M%22&sort=date%20desc%2C%20bibcode%20desc).
 
 &nbsp; 
 
@@ -154,11 +153,11 @@ He is now a PhD student at the University of Waterloo and Perimeter Institute. F
 
 [Dimuthu](https://ca.linkedin.com/in/dimuthu-hemachandra-2465571b) studied the Polycyclic Aromatic Hydrocarbons in Andromeda; find
 his MSc thesis paper [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Hemachandra%2C%20D%22&sort=date%20desc%2C%20bibcode%20desc).
-Dimuthu was a faculty member at Brescia University College and is now a [PhD student in Bio-medical Engineering](https://www.khanlab.ca/people) at Western.
+Dimuthu was a faculty member at Brescia University College and completed his [PhD in Bio-medical Engineering](https://www.khanlab.ca/people) at Western.
 
 ## Andrea Hidalgo Valadez (BSc, Mitacs Globalink 2014)
 
-[Andrea](https://www.linkedin.com/in/andreaahidalgov) investigated the use of [clustering algorithms](https://github.com/LaurethTeX/Clustering) in analysis of multi-wavelength astronomical catalogs. She completed her MSc in astophysical instrumentation at [INAOE, Mexico](http://inaoe.edu.mx) in 2017 and is now a [DPhil student at Oxford](https://www2.physics.ox.ac.uk/contacts/people/hidalgo).
+[Andrea](https://www.linkedin.com/in/andreaahidalgov) investigated the use of [clustering algorithms](https://github.com/LaurethTeX/Clustering) in analysis of multi-wavelength astronomical catalogs. She completed her MSc in astophysical instrumentation at [INAOE, Mexico](http://inaoe.edu.mx) in 2017 and completed her a [DPhil at Oxford](https://www2.physics.ox.ac.uk/contacts/people/hidalgo).
 
 ## Gabe Keenleyside (BSc 2014)
 
@@ -175,7 +174,7 @@ Gabe's research involved precisely locating an X-ray binary within [a star clust
 ## Ghazal Farhani (MSc 2012)
 
 [Ghazal](https://ca.linkedin.com/in/ghazal-farhani-8bba1a51) studied the HII regions in the nearby galaxy [NGC 5128](http://messier.seds.org/xtra/ngc/n5128.html). She completed her
-PhD in atmospheric physics in the Western Physics & Astronomy [Purple Crow Lidar](http://pcl.physics.uwo.ca/) group and is now a data scientist at the Globe and Mail.
+PhD in atmospheric physics in the Western Physics & Astronomy [Purple Crow Lidar](http://pcl.physics.uwo.ca/) group and is now a at the National Research Council.
 
 ## Roger Odell (BSc 2012)
 
