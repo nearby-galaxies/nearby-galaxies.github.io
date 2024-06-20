@@ -39,15 +39,12 @@ I am a 2nd year PhD student co-supervised by professors Pauline Barmby and Sarah
 
 You can find my publications and my CV on this [website](https://ahelias-astro.github.io/). You also can find more about me on my Linkedin [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US).
 
-
+# Recent alumni
 
 ## Matheus do Carmo Carvalho (MSc 2024)
 
-I am a Master's student focusing on understanding the star formation in Superspiral galaxies and more specifically in the Rubin's Galaxy. During my BSc. of Physics I investigated properties of local peculiar galaxies based on their optical spectra and photometry obtained from the OPD/LNA observatory. I am currently analyzing the Carbon Monoxide emission (from 1-0 and 2-1 transitions) line from millimeter-wavelength spectra observations of the Institut de Radioastronomie Millimetrique (IRAM) and comparing it with the H-alpha emission line of SITELLE, the latest instrument integrated at the CFHT. My goal is to understand the gas (and therefore the stars born from it) in isolated giant spiral galaxies and its functioning in regards to normal-sized objects.
+Matheus was a Master's student focusing on understanding the star formation in Superspiral galaxies and more specifically in the Rubin's Galaxy. During his BSc. of Physics he investigated properties of local peculiar galaxies based on their optical spectra and photometry obtained from the OPD/LNA observatory. He analyzed the Carbon Monoxide emission (from 1-0 and 2-1 transitions) line from millimeter-wavelength spectra observations of the Institut de Radioastronomie Millimetrique (IRAM) and compared it with the H-alpha emission line of SITELLE, the latest instrument integrated at the CFHT. His goal was to understand the gas (and therefore the stars born from it) in isolated giant spiral galaxies and its functioning in regards to normal-sized objects.
 
-
-
-# Recent alumni
 
 ## Bavithra Naguleswaran (MSc 2023)
 <img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="240">
