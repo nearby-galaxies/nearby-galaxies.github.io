@@ -45,13 +45,14 @@ You can find my publications and my CV on this [website](https://ahelias-astro.g
 
 Matheus was a Master's student focusing on understanding the star formation in Superspiral galaxies and more specifically in the Rubin's Galaxy. During his BSc. of Physics he investigated properties of local peculiar galaxies based on their optical spectra and photometry obtained from the OPD/LNA observatory. He analyzed the Carbon Monoxide emission (from 1-0 and 2-1 transitions) line from millimeter-wavelength spectra observations of the Institut de Radioastronomie Millimetrique (IRAM) and compared it with the H-alpha emission line of SITELLE, the latest instrument integrated at the CFHT. His goal was to understand the gas (and therefore the stars born from it) in isolated giant spiral galaxies and its functioning in regards to normal-sized objects.
 
+You can find more about Matheus on [LinkedIn](https://www.linkedin.com/in/matheus-ccarvalho/).
 
-## Bavithra Naguleswaran (MSc 2023)
+## Bavithra Naguleswaran-Ajanthan (MSc 2023)
 <img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="240">
 
 Bavithra's research was focused on UGC 2885, a very large galaxy with a low star formation rate. Her focus was to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal wass to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
 
-You can find more about me on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/)
+You can find more about Bavithra on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/)
 
 ## Hadi Papei (PhD 2023)
 
