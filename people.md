@@ -20,18 +20,10 @@ other galaxies in our Local Group. I've used quite a few different telescopes an
 I came to Western from the [Smithsonian Astrophysical Observatory](https://www.cfa.harvard.edu/sao), where I was a member of
 the Spitzer/IRAC instrument team and worked on a variety of science topics including distant galaxies and variable stars in the Milky Way. My [PhD thesis](http://zenodo.org/record/49389?ln=en) was on globular clusters in the Andromeda galaxy, and I started my research career working on galaxy clusters.
 
-
-
-
-
-
 ## Callum Dewsnap (PhD 2025)
 <img align="right" src="{{ site.url }}/images/DewsnapPicture.jpg" width="165" height="233">
 
-
 My research focuses on the relationship between high redshift galaxies and the AGN they may host. Specifically, I model the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. I’ve performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
-
-
 
 ## Adrien Hélias (PhD 2026)
 <img align="right" src="{{ site.url }}/images/new_pp.png" width="200" height="200">
@@ -39,38 +31,37 @@ I am a 2nd year PhD student co-supervised by professors Pauline Barmby and Sarah
 
 You can find my publications and my CV on this [website](https://ahelias-astro.github.io/). You also can find more about me on my Linkedin [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US).
 
-
-
-## Matheus do Carmo Carvalho (MSc 2024)
-
-I am a Master's student focusing on understanding the star formation in Superspiral galaxies and more specifically in the Rubin's Galaxy. During my BSc. of Physics I investigated properties of local peculiar galaxies based on their optical spectra and photometry obtained from the OPD/LNA observatory. I am currently analyzing the Carbon Monoxide emission (from 1-0 and 2-1 transitions) line from millimeter-wavelength spectra observations of the Institut de Radioastronomie Millimetrique (IRAM) and comparing it with the H-alpha emission line of SITELLE, the latest instrument integrated at the CFHT. My goal is to understand the gas (and therefore the stars born from it) in isolated giant spiral galaxies and its functioning in regards to normal-sized objects.
-
 ## Hannah Christie (MSc 2025)
 
 My research focuses on investigating the properties of low-surface brightness galaxies (LSBs), which are galaxies that are dimmer than the night sky. In particular, I am interested in probing the relationship between stellar mass and star formation rate in these low luminosity systems. I use large multi-wavelength catalogs of data from GALEX, SDSS, and WISE in order to identify samples of LSBs and calculate their parameters. During my BSc. in Honours Astrophysics at McMaster University, I worked with Prof. Pauline Barmby and Adrien Helias in order to create a treasury of Nearby Galaxy Surveys with a particular focus on the impact large panoramic sky surveys on traditional targeted surveys.
 
-
 # Recent alumni
 
-## Bavithra Naguleswaran (MSc 2023)
+## Matheus do Carmo Carvalho (MSc 2024)
+
+Matheus was a Master's student focusing on understanding the star formation in Superspiral galaxies and more specifically in the Rubin's Galaxy. During his BSc. of Physics he investigated properties of local peculiar galaxies based on their optical spectra and photometry obtained from the OPD/LNA observatory. He analyzed the Carbon Monoxide emission (from 1-0 and 2-1 transitions) line from millimeter-wavelength spectra observations of the Institut de Radioastronomie Millimetrique (IRAM) and compared it with the H-alpha emission line of SITELLE, the latest instrument integrated at the CFHT. His goal was to understand the gas (and therefore the stars born from it) in isolated giant spiral galaxies and its functioning in regards to normal-sized objects.
+
+You can find more about Matheus on [LinkedIn](https://www.linkedin.com/in/matheus-ccarvalho/).
+
+## Bavithra Naguleswaran-Ajanthan (MSc 2023)
 <img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="240">
 
 Bavithra's research was focused on UGC 2885, a very large galaxy with a low star formation rate. Her focus was to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal wass to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
 
-You can find more about me on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/)
+You can find more about Bavithra on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/).
 
 ## Hadi Papei (PhD 2023)
 
 <img align="right" src="{{ site.url }}/images/Hadi.P.jpg" width="200" height="208">
 In his Ph.D., Hadi developed the first public Python package to measure star formation histories of nearby galaxies using the colour-magnitude of their resolved stars. This package can also be used to simulate stellar populations with different input parameters, i.g. star formation history, age-metalicity relation, distance, reddening, IMF, observational uncertainties etc. 
 Hadi also investigated the unresolved background galaxies' contamination effect in measuring nearby galaxies' star formation histories. He analyzed the contamination effect for galaxies at different distances and surface brightnesses and observational parameters like photometry depth.
-For more info about Hadi, please check his [Linkedin](www.linkedin.com/in/hadi-papei).
+For more info about Hadi, please check his [LinkedIn](https://www.linkedin.com/in/hadi-papei/).
 
 ## James Xu (MSc 2022)
 
 James studied the nearby elliptical galaxy Maffei 1, analysing near-infrared imaging to construct a catalogue of its globular clusters.
 
-For more info about James, please check his [Linkedin](www.linkedin.com/in/james-xu-7b6343120/).
+For more info about James, please check his [Linkedin](https://www.linkedin.com/in/james-xu-7b6343120/).
 
 ## Robin Kwik (MSc 2022)
 
@@ -112,7 +103,7 @@ Robin's [PhD thesis](https://ir.lib.uwo.ca/etd/5931/) investigated the details o
 
 <img align="right" src="{{ site.url }}/images/alex.jpg">
 Alex's research involved the use of clustering algorithms to analyze a multi-wavelength astronomical catalog
-of point sources in a nearby galaxy. The paper from this research is [here](https://academic.oup.com/mnras/article/472/1/1074/4082094/Deconstructing-a-galaxy-colour-distributions-of). He is [associate analyst at Mastercard Advisors](https://www.linkedin.com/in/alexkiar/).
+of point sources in a nearby galaxy. The paper from this research is [here](https://academic.oup.com/mnras/article/472/1/1074/4082094/Deconstructing-a-galaxy-colour-distributions-of). For more about Alex, see his [LinkedIn](https://www.linkedin.com/in/alexkiar/).
 
 &nbsp; 
 
@@ -120,8 +111,7 @@ of point sources in a nearby galaxy. The paper from this research is [here](http
 
 <img align="right" src="{{ site.url }}/images/sachi.jpg">
 [Sachi](https://www.linkedin.com/in/sachi-elkerton-b55434129)'s thesis research was on mass-losing dusty stars in nearby
-[dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group). Sachi is currently a fraud detection analyst at RBC.
-
+[dwarf galaxies](https://en.wikipedia.org/wiki/Local_Group). For more about Sachi see her [LinkedIn](https://www.linkedin.com/in/sachi-elkerton/)
 
 ![Neven, Pauline and Sahar on Convocation day, fall 2016]({{ site.url }}/images/pb_sr_nv_grad.jpg)
 
@@ -129,7 +119,7 @@ Neven, Pauline and Sahar on Convocation day, fall 2016
 
 ## Sahar Rahmani (PhD 2016)
 
-[Sahar's](https://sites.google.com/site/rahmanisahar/) research involves using modern statistical and machine learning techniques to study the star formation rate in external galaxies. Find her publications [here](http://ui.adsabs.harvard.edu/#search/q=author%3A"Rahmani"%20author%3A"Barmby"&sort=date%20desc%2C%20bibcode%20desc) and her PhD thesis [here](http://ir.lib.uwo.ca/etd/4061/). Sahar is now [Director, Joint Security Operations Centre (JSOC) Analytics, Global Cyber Security at RBC](https://www.linkedin.com/in/rahmanisahar/).
+[Sahar's](https://sites.google.com/site/rahmanisahar/) research involved using modern statistical and machine learning techniques to study the star formation rate in external galaxies. Find her publications [here](http://ui.adsabs.harvard.edu/#search/q=author%3A"Rahmani"%20author%3A"Barmby"&sort=date%20desc%2C%20bibcode%20desc) and her PhD thesis [here](http://ir.lib.uwo.ca/etd/4061/). For more about Sahar see her [LinkedIn](https://www.linkedin.com/in/rahmanisahar/).
 
 ## Neven Vulic (PhD 2016, MSc 2012)
 
@@ -143,7 +133,7 @@ publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Vulic%2C
 
 <img align="right" src="{{ site.url }}/images/masoud.jpg">
 [Masoud](https://www.perimeterinstitute.ca/people/masoud-rafiei-ravandi) studied the mid-infrared halo of the Andromeda galaxy.
-He is now a PhD student at the University of Waterloo and Perimeter Institute. Find Masoud's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rafiei%20Ravandi%2C%20M%22&sort=date%20desc%2C%20bibcode%20desc).
+He completed his PhD at the University of Waterloo and Perimeter Institute. Find Masoud's publications [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rafiei%20Ravandi%2C%20M%22&sort=date%20desc%2C%20bibcode%20desc).
 
 &nbsp; 
 
@@ -159,11 +149,11 @@ He is now a PhD student at the University of Waterloo and Perimeter Institute. F
 
 [Dimuthu](https://ca.linkedin.com/in/dimuthu-hemachandra-2465571b) studied the Polycyclic Aromatic Hydrocarbons in Andromeda; find
 his MSc thesis paper [here](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Hemachandra%2C%20D%22&sort=date%20desc%2C%20bibcode%20desc).
-Dimuthu was a faculty member at Brescia University College and is now a [PhD student in Bio-medical Engineering](https://www.khanlab.ca/people) at Western.
+Dimuthu was a faculty member at Brescia University College and completed his [PhD in Bio-medical Engineering](https://www.khanlab.ca/people) at Western.
 
 ## Andrea Hidalgo Valadez (BSc, Mitacs Globalink 2014)
 
-[Andrea](https://www.linkedin.com/in/andreaahidalgov) investigated the use of [clustering algorithms](https://github.com/LaurethTeX/Clustering) in analysis of multi-wavelength astronomical catalogs. She completed her MSc in astophysical instrumentation at [INAOE, Mexico](http://inaoe.edu.mx) in 2017 and is now a [DPhil student at Oxford](https://www2.physics.ox.ac.uk/contacts/people/hidalgo).
+[Andrea](https://www.linkedin.com/in/andreaahidalgov) investigated the use of [clustering algorithms](https://github.com/LaurethTeX/Clustering) in analysis of multi-wavelength astronomical catalogs. She completed her MSc in astophysical instrumentation at [INAOE, Mexico](http://inaoe.edu.mx) in 2017 and completed her a [DPhil at Oxford](https://www2.physics.ox.ac.uk/contacts/people/hidalgo).
 
 ## Gabe Keenleyside (BSc 2014)
 
@@ -180,7 +170,7 @@ Gabe's research involved precisely locating an X-ray binary within [a star clust
 ## Ghazal Farhani (MSc 2012)
 
 [Ghazal](https://ca.linkedin.com/in/ghazal-farhani-8bba1a51) studied the HII regions in the nearby galaxy [NGC 5128](http://messier.seds.org/xtra/ngc/n5128.html). She completed her
-PhD in atmospheric physics in the Western Physics & Astronomy [Purple Crow Lidar](http://pcl.physics.uwo.ca/) group and is now a data scientist at the Globe and Mail.
+PhD in atmospheric physics in the Western Physics & Astronomy [Purple Crow Lidar](http://pcl.physics.uwo.ca/) group and is now a at the National Research Council.
 
 ## Roger Odell (BSc 2012)
 
