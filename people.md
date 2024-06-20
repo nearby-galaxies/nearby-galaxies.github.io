@@ -52,20 +52,20 @@ You can find more about Matheus on [LinkedIn](https://www.linkedin.com/in/matheu
 
 Bavithra's research was focused on UGC 2885, a very large galaxy with a low star formation rate. Her focus was to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal wass to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
 
-You can find more about Bavithra on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/)
+You can find more about Bavithra on [LinkedIn](https://www.linkedin.com/in/bavithra-naguleswaran/).
 
 ## Hadi Papei (PhD 2023)
 
 <img align="right" src="{{ site.url }}/images/Hadi.P.jpg" width="200" height="208">
 In his Ph.D., Hadi developed the first public Python package to measure star formation histories of nearby galaxies using the colour-magnitude of their resolved stars. This package can also be used to simulate stellar populations with different input parameters, i.g. star formation history, age-metalicity relation, distance, reddening, IMF, observational uncertainties etc. 
 Hadi also investigated the unresolved background galaxies' contamination effect in measuring nearby galaxies' star formation histories. He analyzed the contamination effect for galaxies at different distances and surface brightnesses and observational parameters like photometry depth.
-For more info about Hadi, please check his [Linkedin](www.linkedin.com/in/hadi-papei).
+For more info about Hadi, please check his [LinkedIn](https://www.linkedin.com/in/hadi-papei/).
 
 ## James Xu (MSc 2022)
 
 James studied the nearby elliptical galaxy Maffei 1, analysing near-infrared imaging to construct a catalogue of its globular clusters.
 
-For more info about James, please check his [Linkedin](www.linkedin.com/in/james-xu-7b6343120/).
+For more info about James, please check his [Linkedin](https://www.linkedin.com/in/james-xu-7b6343120/).
 
 ## Robin Kwik (MSc 2022)
 
