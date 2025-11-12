@@ -31,10 +31,8 @@ I am a 2nd year PhD student co-supervised by professors Pauline Barmby and Sarah
 
 You can find my publications and my CV on this [website](https://ahelias-astro.github.io/). You also can find more about me on my Linkedin [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US).
 
-## Hannah Christie (MSc 2025)
-My research focuses on investigating the properties of low-surface brightness galaxies (LSBs), which are galaxies that are dimmer than the night sky. In particular, I am interested in probing the relationship between stellar mass and star formation rate in these low luminosity systems. I use large multi-wavelength catalogs of data from GALEX, SDSS, and WISE in order to identify samples of LSBs and calculate their parameters. During my BSc. in Honours Astrophysics at McMaster University, I worked with Prof. Pauline Barmby and Adrien Helias in order to create a treasury of Nearby Galaxy Surveys with a particular focus on the impact large panoramic sky surveys on traditional targeted surveys.
 
-## Alyson Loney (Bsc 2025)
+## Alyson Loney (MSc 2027)
 <img align="right" src="{{ site.url }}/images/Alyson.png" width="165" height="210">
 I study the intriguing star formation taking place in low surface brightness (LSB) spiral galaxies, with an emphasis on the target galaxy UGC10140. LSB spiral galaxies have very low star formation rates despite having large gas reservoirs, and yet they are distinctly blue in color. Utilizing multiwavelength photometry from three instruments: Astrosat UVIT, Harlan James Smith GCMS, and Spitzer IRAC — I am able to combine measurements into multiwavelength spectral cubes and derive spatially resolved star formation histories. 
 
@@ -42,6 +40,9 @@ You can find more about me on [LinkedIn](https://www.linkedin.com/in/alyson-lone
 
 
 # Recent alumni
+
+## Hannah Christie (MSc 2025)
+My research focuses on investigating the properties of low-surface brightness galaxies (LSBs), which are galaxies that are dimmer than the night sky. In particular, I am interested in probing the relationship between stellar mass and star formation rate in these low luminosity systems. I use large multi-wavelength catalogs of data from GALEX, SDSS, and WISE in order to identify samples of LSBs and calculate their parameters. During my BSc. in Honours Astrophysics at McMaster University, I worked with Prof. Pauline Barmby and Adrien Helias in order to create a treasury of Nearby Galaxy Surveys with a particular focus on the impact large panoramic sky surveys on traditional targeted surveys.
 
 ## Matheus do Carmo Carvalho (MSc 2024)
 
