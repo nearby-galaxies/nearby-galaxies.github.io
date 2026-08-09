@@ -38,6 +38,10 @@ I study the intriguing star formation taking place in low surface brightness (LS
 
 You can find more about me on [LinkedIn](https://www.linkedin.com/in/alyson-loney-04566b161/).
 
+## Yashpranav Sairam (MSc 2027)
+Using data previews from the newly operational Rubin Observatory, I am interested in leveraging its wide, deep, and multi-band observations to generate light curves and perform colour analysis for object classification. I am currently quantifying the variability of galaxies, stars, and QSOs (extremely luminous AGN) and investigating whether their multi-band colours can probe their physical characteristics in the well-sampled Extended Chandra Deep Field South (ECDFS).
+
+You can find more about me on [LinkedIn](https://www.linkedin.com/in/pranav-sairam/).
 
 # Recent alumni
 
