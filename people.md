@@ -43,7 +43,7 @@ You can find more about me on [LinkedIn](https://www.linkedin.com/in/pranav-sair
 <img align="right" src="{{ site.url }}/images/new_pp.png" width="200" height="200">
 Adrien was a PhD student co-supervised by professors Pauline Barmby and Sarah Gallagher. He worked on the optical photometric variability of active galactic nuclei. He used advanced mathematical and statistical methods such as Slepian Wavelet Variance and Continuous Auto-Regressive Moving Average (CARMA) models to analyze astronomical time series. He developed the first public Python package ([ocean](https://github.com/ahelias-astro/ocean/tree/main)) to calculate Slepian Wavelet Variance for irregularly sampled time series.
 
-You can find more about Adrien on his [Linkedin](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US) his [website](https://ahelias-astro.github.io/).
+You can find more about Adrien on his [Linkedin](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US) and his [website](https://ahelias-astro.github.io/).
 
 ## Hannah Christie (MSc 2025)
 My research focuses on investigating the properties of low-surface brightness galaxies (LSBs), which are galaxies that are dimmer than the night sky. In particular, I am interested in probing the relationship between stellar mass and star formation rate in these low luminosity systems. I use large multi-wavelength catalogs of data from GALEX, SDSS, and WISE in order to identify samples of LSBs and calculate their parameters. During my BSc. in Honours Astrophysics at McMaster University, I worked with Prof. Pauline Barmby and Adrien Hélias in order to create a treasury of Nearby Galaxy Surveys with a particular focus on the impact large panoramic sky surveys on traditional targeted surveys.
