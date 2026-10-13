@@ -44,10 +44,10 @@ You can find more about Adrien on his [Linkedin](https://www.linkedin.com/in/adr
 ## Callum Dewsnap (PhD 2025)
 <img align="right" src="{{ site.url }}/images/DewsnapPicture.jpg" width="165" height="233">
 
-My research focuses on the relationship between high redshift galaxies and the AGN they may host. Specifically, I model the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. I’ve performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
+Callum's research focused on the relationship between high redshift galaxies and the AGN they may host. Specifically, he modelled the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. Callum has performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
 
 ## Hannah Christie (MSc 2025)
-My research focuses on investigating the properties of low-surface brightness galaxies (LSBs), which are galaxies that are dimmer than the night sky. In particular, I am interested in probing the relationship between stellar mass and star formation rate in these low luminosity systems. I use large multi-wavelength catalogs of data from GALEX, SDSS, and WISE in order to identify samples of LSBs and calculate their parameters. During my BSc. in Honours Astrophysics at McMaster University, I worked with Prof. Pauline Barmby and Adrien Hélias in order to create a treasury of Nearby Galaxy Surveys with a particular focus on the impact large panoramic sky surveys on traditional targeted surveys.
+Hannah's research focused on investigating the properties of low-surface brightness galaxies (LSBs), which are galaxies that are dimmer than the night sky. In particular, she was interested in probing the relationship between stellar mass and star formation rate in these low luminosity systems. She used large multi-wavelength catalogs of data from GALEX, SDSS, and WISE in order to identify samples of LSBs and calculate their parameters. During her BSc. in Honours Astrophysics at McMaster University, Hannah worked with Prof. Pauline Barmby and Adrien Hélias in order to create a treasury of Nearby Galaxy Surveys with a particular focus on the impact large panoramic sky surveys on traditional targeted surveys.
 
 ## Matheus do Carmo Carvalho (MSc 2024)
 
@@ -56,7 +56,7 @@ Matheus was a Master's student focusing on understanding the star formation in S
 You can find more about Matheus on [LinkedIn](https://www.linkedin.com/in/matheus-ccarvalho/).
 
 ## Bavithra Naguleswaran-Ajanthan (MSc 2023)
-<img align="right" src="{{ site.url }}/images/bavi.jpg" width="213" height="240">
+<img align="right" src="{{ site.url }}/images/bavi.jpg" width="200" height="240">
 
 Bavithra's research was focused on UGC 2885, a very large galaxy with a low star formation rate. Her focus was to calculate and understand the metallicity gradient of UGC 2885 data using data from SITELLE. SITELLE provides the necessary spectral lines to calculate the metallicity. The goal wass to understand why this massive galaxy has such a low star formation rate by further understanding its star population throughout the galaxy.  
 
