@@ -39,7 +39,7 @@ I study the intriguing star formation taking place in low surface brightness (LS
 You can find more about me on [LinkedIn](https://www.linkedin.com/in/alyson-loney-04566b161/).
 
 ## Yashpranav Sairam (MSc 2027)
-Using data previews from the newly operational Rubin Observatory, I am interested in leveraging its wide, deep, and multi-band observations to generate light curves and perform colour analysis for object classification. I am currently quantifying the variability of galaxies, stars, and QSOs (extremely luminous AGN) and investigating whether their multi-band colours can probe their physical characteristics in the well-sampled Extended Chandra Deep Field South (ECDFS).
+I am a second year Masters student working with Data Preview 1 (DP1) from the Vera C. Rubin Observatory in Chile. I am interested in leveraging its wide, deep, and multi-band observations to probe astrophysical sources using light-curve variability and colour analysis. My current research quantifies the variability and multi-band colours of galaxies, stars, and quasars (extremely luminous Active Galactic Nuclei) in DP1's well-sampled Extended Chandra Deep Field South (ECDFS) to identify how these class parameters are clustered. My aim is to evaluate the effectiveness of this approach to study galaxy evolution through new object discovery using next-generation observatories.
 
 You can find more about me on [LinkedIn](https://www.linkedin.com/in/pranav-sairam/).
 
