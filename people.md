@@ -27,9 +27,9 @@ My research focuses on the relationship between high redshift galaxies and the A
 
 ## Adrien Hélias (PhD 2026)
 <img align="right" src="{{ site.url }}/images/new_pp.png" width="200" height="200">
-I am a 2nd year PhD student co-supervised by professors Pauline Barmby and Sarah Gallagher (specialities: black holes, quasars, active galactic nuclei). I am currently working on low-mass black holes in galaxies, trying to find a sample of such objects by cross-matching and analyzing the sky surveys of the universe. I am especially interested in using AGN variability as a way to find these low-mass black holes.
+I am a 4th year PhD student co-supervised by professors Pauline Barmby and Sarah Gallagher and I work on the brightness variability of supermassive black holes in galaxies. I use this variability as a tool to learn more about the nature of the active galaxies I observe, and as to better understand the impact of black holes on galaxy evolution. I use advanced mathematical and statistical methods such as Slepian Wavelet Variance and Continuous Auto-Regressive Moving Average (CARMA) models to analyze astronomical time series. I try to extract the maximum of informations from them, to either classify quasars or to establish correlations with physical parameters such as black hole mass and host galaxy luminosity.
 
-You can find my publications and my CV on this [website](https://ahelias-astro.github.io/). You also can find more about me on my Linkedin [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US).
+You can find my publications and my CV on this [website](https://ahelias-astro.github.io/)! You also can find more about me on my Linkedin [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US)!
 
 
 ## Alyson Loney (MSc 2027)
