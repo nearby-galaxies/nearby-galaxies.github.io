@@ -33,8 +33,8 @@ You can find my publications and my CV on this [website](https://ahelias-astro.g
 
 
 ## Alyson Loney (MSc 2027)
-<img align="right" src="{{ site.url }}/images/Alyson.png" width="165" height="210">
-I study the intriguing star formation taking place in low surface brightness (LSB) spiral galaxies, with an emphasis on the target galaxy UGC10140. LSB spiral galaxies have very low star formation rates despite having large gas reservoirs, and yet they are distinctly blue in color. Utilizing multiwavelength photometry from three instruments: Astrosat UVIT, Harlan James Smith GCMS, and Spitzer IRAC — I am able to combine measurements into multiwavelength spectral cubes and derive spatially resolved star formation histories. 
+<img align="right" src="{{ site.url }}/images/Alyson.png" width="185" height="210">
+Using observations from the Vera C. Rubin Observatory, I study the globular clusters in the Fornax dwarf spheroidal galaxy to explore the long-standing Fornax dynamical puzzle. By applying crowded-field photometry and stellar population selection techniques, I search for potential globular cluster members at large radii to identify faint extended structures that may reveal interactions with their host galaxy.
 
 You can find more about me on [LinkedIn](https://www.linkedin.com/in/alyson-loney-04566b161/).
 
