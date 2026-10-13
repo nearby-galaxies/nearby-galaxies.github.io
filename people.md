@@ -20,15 +20,13 @@ other galaxies in our Local Group. I've used quite a few different telescopes an
 I came to Western from the [Smithsonian Astrophysical Observatory](https://www.cfa.harvard.edu/sao), where I was a member of
 the Spitzer/IRAC instrument team and worked on a variety of science topics including distant galaxies and variable stars in the Milky Way. My [PhD thesis](http://zenodo.org/record/49389?ln=en) was on globular clusters in the Andromeda galaxy, and I started my research career working on galaxy clusters.
 
-## Adrien Hélias (PhD 2026)
-<img align="right" src="{{ site.url }}/images/new_pp.png" width="200" height="200">
-I am a 4th year PhD student co-supervised by professors Pauline Barmby and Sarah Gallagher and I work on the brightness variability of supermassive black holes in galaxies. I use this variability as a tool to learn more about the nature of the active galaxies I observe, and as to better understand the impact of black holes on galaxy evolution. I use advanced mathematical and statistical methods such as Slepian Wavelet Variance and Continuous Auto-Regressive Moving Average (CARMA) models to analyze astronomical time series. I try to extract the maximum of informations from them, to either classify quasars or to establish correlations with physical parameters such as black hole mass and host galaxy luminosity.
+## Callum Dewsnap (PhD 2025)
+<img align="right" src="{{ site.url }}/images/DewsnapPicture.jpg" width="165" height="233">
 
-You can find my publications and my CV on this [website](https://ahelias-astro.github.io/)! You also can find more about me on my Linkedin [here](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US)!
-
+My research focuses on the relationship between high redshift galaxies and the AGN they may host. Specifically, I model the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. I’ve performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
 
 ## Alyson Loney (MSc 2027)
-<img align="right" src="{{ site.url }}/images/Alyson.png" width="195" height="210">
+<img align="right" src="{{ site.url }}/images/Alyson.png" width="210" height="210">
 Using observations from the Vera C. Rubin Observatory, I study the globular clusters in the Fornax dwarf spheroidal galaxy to explore the long-standing Fornax dynamical puzzle. By applying crowded-field photometry and stellar population selection techniques, I search for potential globular cluster members at large radii to identify faint extended structures that may reveal interactions with their host galaxy.
 
 You can find more about me on [LinkedIn](https://www.linkedin.com/in/alyson-loney-04566b161/).
@@ -39,13 +37,15 @@ I am a second year Masters student working with Data Preview 1 (DP1) from the Ve
 You can find more about me on [LinkedIn](https://www.linkedin.com/in/pranav-sairam/).
 
 # Recent alumni
-## Callum Dewsnap (PhD 2025)
-<img align="right" src="{{ site.url }}/images/DewsnapPicture.jpg" width="165" height="233">
 
-My research focuses on the relationship between high redshift galaxies and the AGN they may host. Specifically, I model the surface brightness profiles of galaxies to determine properties such as size and morphology. These surface brightness profiles are significantly contaminated by the presence of AGN, so to determine the morphological parameters of the host galaxy we must disentangle the light coming from the galaxy and the AGN. I’ve performed these analyses on thousands of active galaxies imaged by telescopes such as JWST, HST, and the Subaru Telescope.
+## Adrien Hélias (PhD 2026)
+<img align="right" src="{{ site.url }}/images/new_pp.png" width="200" height="200">
+Adrien was a PhD student co-supervised by professors Pauline Barmby and Sarah Gallagher. He worked on the optical photometric variability of active galactic nuclei. He used advanced mathematical and statistical methods such as Slepian Wavelet Variance and Continuous Auto-Regressive Moving Average (CARMA) models to analyze astronomical time series. He developed the first public Python package ([ocean](https://github.com/ahelias-astro/ocean/tree/main)) to calculate Slepian Wavelet Variance for irregularly sampled time series.
+
+You can find more about Adrien on his [Linkedin](https://www.linkedin.com/in/adrien-h%C3%A9lias-0b0329216/?locale=en_US) his [website](https://ahelias-astro.github.io/).
 
 ## Hannah Christie (MSc 2025)
-My research focuses on investigating the properties of low-surface brightness galaxies (LSBs), which are galaxies that are dimmer than the night sky. In particular, I am interested in probing the relationship between stellar mass and star formation rate in these low luminosity systems. I use large multi-wavelength catalogs of data from GALEX, SDSS, and WISE in order to identify samples of LSBs and calculate their parameters. During my BSc. in Honours Astrophysics at McMaster University, I worked with Prof. Pauline Barmby and Adrien Helias in order to create a treasury of Nearby Galaxy Surveys with a particular focus on the impact large panoramic sky surveys on traditional targeted surveys.
+My research focuses on investigating the properties of low-surface brightness galaxies (LSBs), which are galaxies that are dimmer than the night sky. In particular, I am interested in probing the relationship between stellar mass and star formation rate in these low luminosity systems. I use large multi-wavelength catalogs of data from GALEX, SDSS, and WISE in order to identify samples of LSBs and calculate their parameters. During my BSc. in Honours Astrophysics at McMaster University, I worked with Prof. Pauline Barmby and Adrien Hélias in order to create a treasury of Nearby Galaxy Surveys with a particular focus on the impact large panoramic sky surveys on traditional targeted surveys.
 
 ## Matheus do Carmo Carvalho (MSc 2024)
 
